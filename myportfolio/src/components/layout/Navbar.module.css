@@ -1,0 +1,26 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(25, 125, 225);
+    padding: 2em 2.5em 2em 2.5em;
+}
+
+.navbar h2 {
+    color: white;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar li {
+    list-style: none;
+    
+}
+
+.navbar a {
+    text-decoration: none;
+    padding: 1.5em;
+    color: white;
+}
+
